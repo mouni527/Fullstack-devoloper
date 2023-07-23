@@ -1,0 +1,28 @@
+
+***describe table tags***
+
+<html>
+<head>
+<style>
+table,th,td{
+border:1px solid black;
+border-collapse:collapse;
+}
+</style>
+</head>
+<table>
+<tr>
+<th>month</th>
+<th>savings</th>
+</tr>
+<tr>
+<td>january</td>
+<td>$100</td>
+</tr>
+<tr>
+<td>february</td>
+<td>$80</td>
+</tr>
+</table>
+</body>
+</html>
